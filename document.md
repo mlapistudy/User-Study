@@ -1,17 +1,9 @@
 # Document
 
-[TOC]
-
-## Testing tool turorial
-Please check: [Online manual](https://marketplace.visualstudio.com/items?itemName=ALERTProject.mlapitesting)
-
 
 ## Google Cloud vision
 
 Please check: [Online manual](https://cloud.google.com/vision/docs/features-list)
-
-
-
 
 
 
